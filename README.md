@@ -28,3 +28,21 @@ This repository is host to all the coding projects I have completed on Hackerran
 3) [Introduction_To_Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problema) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Intro_Sets.py)
 
 4) [Merge The Tools](https://www.hackerrank.com/challenges/merge-the-tools) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Merge_Tools.py)
+
+5) [Minion Game](https://www.hackerrank.com/challenges/the-minion-game) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Minion_Game.py)
+
+6) [String_Validators](https://www.hackerrank.com/challenges/string-validators) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/String_Validators.py)
+
+7) [Find_String](https://www.hackerrank.com/challenges/find-a-string) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Find_String.py)
+
+8) [Mutations](https://www.hackerrank.com/challenges/python-mutations) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Mutations.py)
+
+9) [Swap Case](https://www.hackerrank.com/challenges/swap-case) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Swap_Case.py)
+
+## R Coding Practice 
+
+1) [Funny String](https://www.hackerrank.com/challenges/funny-string) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Funny_String.R)
+
+2) [Binomial Distribution 3](https://www.hackerrank.com/challenges/binomial-distribution-3) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/BD_3.R)
+
+3) [Binomial Distribution 2](https://www.hackerrank.com/challenges/binomial-distribution-2) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/BD_2.R)
