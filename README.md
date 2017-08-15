@@ -46,3 +46,11 @@ This repository is host to all the coding projects I have completed on Hackerran
 2) [Binomial Distribution 3](https://www.hackerrank.com/challenges/binomial-distribution-3) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/BD_3.R)
 
 3) [Binomial Distribution 2](https://www.hackerrank.com/challenges/binomial-distribution-2) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/BD_2.R)
+
+4) [Pangrams](https://www.hackerrank.com/challenges/pangrams) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Pangrams.R)
+
+5) [Cut The Sticks](https://www.hackerrank.com/challenges/cut-the-sticks) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/cut_the_sticks.R)
+
+6) [Find_Digits](https://www.hackerrank.com/challenges/find-digits) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Find_digits.R)
+
+7) [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Utopian_Tree.R)
