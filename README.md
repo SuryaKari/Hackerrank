@@ -6,7 +6,7 @@ This repository is host to all the coding projects I have completed on Hackerran
 
 1) [Polynomial Regression Problem - Office Prices](https://www.hackerrank.com/challenges/predicting-office-space-price/problem) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Polynomial_Regression.py)
 
-2) [Multiple Linear Regression - Predicting House Prices](https://www.hackerrank.com/challenges/predicting-house-prices) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Multiple_Linear_Regression.py)
+2) [Multiple Linear Regression - Predicting House Prices](https://www.hackerrank.com/challenges/predicting-house-prices) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Multiple_Linear_regression.py)
 
 3) [Unstructured Data - Classification Problem](https://www.hackerrank.com/challenges/quora-answer-classifier) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Quora_Answer_Classifier.py)
 
@@ -23,7 +23,7 @@ This repository is host to all the coding projects I have completed on Hackerran
 
 1) [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Symmetric_Difference.py)
 
-2) [No Idea Challenge](https://www.hackerrank.com/challenges/no-idea) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/No_idea.py)
+2) [No Idea Challenge](https://www.hackerrank.com/challenges/no-idea) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/No_Idea.py)
 
 3) [Introduction_To_Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problema) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Intro_Sets.py)
 
@@ -49,8 +49,8 @@ This repository is host to all the coding projects I have completed on Hackerran
 
 4) [Pangrams](https://www.hackerrank.com/challenges/pangrams) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Pangrams.R)
 
-5) [Cut The Sticks](https://www.hackerrank.com/challenges/cut-the-sticks) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/cut_the_sticks.R)
+5) [Cut The Sticks](https://www.hackerrank.com/challenges/cut-the-sticks) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Cut_The_Sticks.R)
 
-6) [Find_Digits](https://www.hackerrank.com/challenges/find-digits) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Find_digits.R)
+6) [Find_Digits](https://www.hackerrank.com/challenges/find-digits) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Find_Digits.R)
 
-7) [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Utopian_Tree.R)
+7) [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) : [Solution](https://github.com/Suryak1986/Hackerrank/blob/master/Utopian_Tree.r)
